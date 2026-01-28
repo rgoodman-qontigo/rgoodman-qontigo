@@ -1,6 +1,6 @@
 Roy Goodman at SimCorp
 
-Over thirty-five years experience as a professional in the information technology industry with a diverse technical background, 
+Over forty years experience as a professional in the information technology industry with a diverse technical background, 
 including managing teams of programmers, designing and developing systems, programming, and writing technical documentation.
 
 Current languages: Python, Java, Groovy, Perl
